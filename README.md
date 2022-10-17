@@ -57,4 +57,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdoohossamm&theme=onedark&background=00000)](https://git.io/streak-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdoohossamm&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoohossamm&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
