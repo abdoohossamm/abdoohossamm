@@ -56,7 +56,7 @@
 ---
 ### :fire: My Stats :
 
-![abdoohossamm's LeetCode stats](https://leetcard.jacoblin.cool/abdoohossamm?theme=dark&font=Roboto)
+[![abdoohossamm's LeetCode stats](https://leetcard.jacoblin.cool/abdoohossamm?theme=dark&font=Roboto)](https://leetcode.com/abdoohossamm/)
 
 ![abdoohossamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoohossamm&show_icons=true&theme=onedark)
 
