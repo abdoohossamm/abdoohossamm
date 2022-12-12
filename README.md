@@ -57,11 +57,9 @@
 ### :fire: My Stats :
 
 [![abdoohossamm's LeetCode stats](https://leetcard.jacoblin.cool/abdoohossamm?theme=dark&font=Roboto)](https://leetcode.com/abdoohossamm/)
-
-![abdoohossamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoohossamm&show_icons=true&theme=dark)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdoohossamm&theme=dark&background=00000)](https://git.io/streak-stats)
 
+![abdoohossamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoohossamm&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoohossamm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
